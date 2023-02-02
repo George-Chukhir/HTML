@@ -1,0 +1,24 @@
+.menu-image {
+    width: 45%;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    margin: 1rem;
+  }
+  .first-dishes {
+    text-align: center;
+    width: 250px;
+    border-radius: 25%;
+    box-shadow: 0 0 3px;
+  }
+  .card-height {
+    min-height: 100%;
+  }
+  .soup-images {
+    width: auto;
+    height: 297.6px;
+    object-fit: cover;
+  }
+  .card-title-size {
+    padding: 10px;
+    height: 144px;
+  }
